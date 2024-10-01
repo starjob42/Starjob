@@ -20,8 +20,12 @@
 3. **instruction**
    - **Type:** object
    - **Number of Unique Values:** 120,000
-   - **Initial description of the problem detailing the number of jobs and ma-
-      chines involved.
+   - **Initial description of the problem detailing the number of jobs and machines involved.**
+     
+4. **input**
+   - **Type:** object
+   - **Number of Unique Values:** 120,000
+   - **Description of the problem in LLM format**
 
 5. **output**
    - **Type:** object
