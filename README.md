@@ -1,5 +1,5 @@
 
-# SchedGPT Dataset designed to train LLMs on JSSP
+# Starjob Dataset designed to train LLMs on JSSP
 
 ## Dataset Overview
 
