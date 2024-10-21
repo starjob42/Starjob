@@ -1,0 +1,7 @@
+transformers==4.44.2
+wandb==0.18.0
+torch==2.4.1
+trl==0.10.1
+datasets==2.21.0
+unsloth==2024.8
+numpy==1.26.4
