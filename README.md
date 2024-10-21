@@ -42,6 +42,42 @@
 
 This dataset can be used for training LLMs for job-shop scheduling problems (JSSP). Each entry provides information about the number of jobs, the number of machines, and other relevant details formatted in natural language.
 
+
+# Setting Up Your Python Environment
+
+Follow these instructions to create a virtual environment and install the necessary libraries.
+
+## Step 1: Create a Virtual Environment
+
+```bash
+python3 -m venv llm_env
+```
+
+Activate the Virtual Environment
+After creating the virtual environment, activate it using the following command:
+
+On Windows
+```bash
+.\llm_env\Scripts\activate
+```
+
+On macOS and Linux
+```bash
+source llm_env/bin/activate
+```
+
+# Install the Required Libraries
+```bash
+pip install -r requirements.txt
+```
+
+# Training
+Make sure to put dataset.json under data directory
+
+```bash
+python train_llama_3.py
+```
+
 ## License
 
 This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). For more details, see the [license description](https://creativecommons.org/licenses/by-sa/4.0/). The dataset will remain accessible for an extended period.
