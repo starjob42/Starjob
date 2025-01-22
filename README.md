@@ -3,38 +3,38 @@
 
 ## Dataset Overview
 
-**Dataset Name:** jssp_llm_format_120k.json
-**Number of Entries:** 120,000  
+**Dataset Name:** starjob130k.json
+**Number of Entries:** 130,000  
 **Number of Fields:** 5  
 
 ## Fields Description
 
 1. **num_jobs**
    - **Type:** int64
-   - **Number of Unique Values:** 12
+   - **Number of Unique Values:** 16
    
 2. **num_machines**
    - **Type:** int64
-   - **Number of Unique Values:** 12
+   - **Number of Unique Values:** 16
    
 3. **instruction**
    - **Type:** object
-   - **Number of Unique Values:** 120,000
+   - **Number of Unique Values:** 130,000
    - **Initial description of the problem detailing the number of jobs and machines involved.**
      
 4. **input**
    - **Type:** object
-   - **Number of Unique Values:** 120,000
+   - **Number of Unique Values:** 130,000
    - **Description of the problem in LLM format**
 
 5. **output**
    - **Type:** object
-   - **Number of Unique Values:** 120,000
-   - **Solution in LLM format:** 120,000
+   - **Number of Unique Values:** 130,000
+   - **Solution in LLM format:** 130,000
 
 6. **matrix**
    - **Type:** object
-   - **Number of Unique Values:** 120,000
+   - **Number of Unique Values:** 130,000
    - **Input problem OR-Tool makspan and solution in Matrix format** 
 
    
