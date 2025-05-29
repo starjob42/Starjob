@@ -1,7 +1,7 @@
 
 # Starjob Dataset designed to train LLMs on JSSP
 
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/henri24/Starjob)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/henri24/Starjob)
 
 Dataset is available at [Hugging Face](https://huggingface.co/datasets/henri24/Starjob)
 
